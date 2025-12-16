@@ -1,0 +1,2 @@
+Our Startup Freelancer is a simple, responsive one-page website designed to showcase a startup or freelancer’s services, projects, and contact information.
+It is built using React and tailwind , which makes it mobile-friendly and easy to customize.
